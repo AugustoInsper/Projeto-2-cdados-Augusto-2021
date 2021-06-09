@@ -4,4 +4,4 @@
 
 Fora este README.md, os únicos arquivos presentes neste GitHub são os dois seguintes:
 * Código.ipynb : Relatório Final do Projeto
-* TV Shows.xlsx : Dataframe utilizado para a realização do projeto
+* TV Shows.csv : Dataframe utilizado para a realização do projeto
